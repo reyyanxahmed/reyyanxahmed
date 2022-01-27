@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @reyyanxahmed
 - 👀 I’m interested in c, c++, java, android development.
-- 🌱 I’m currently learning c.
+- 🌱 I’m currently learning c++.
 - 💞️ I’m looking to collaborate on android as well as ios development.
 - 📫 How to reach me reyyanahmed77@gmail.com.
 
