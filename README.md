@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @reyyanxahmed
+- 👋 Hi, I’m Reyyan Ahmed
 - 👀 I’m interested in c, c++, java, android development.
 - 🌱 I’m currently learning c++.
 - 💞️ I’m looking to collaborate on android as well as ios development.
