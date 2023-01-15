@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Reyyan Ahmed
-- 👀 I’m interested in c, c++, java, android development.
-- 🌱 I’m currently learning c++.
+- 👀 I’m interested in c, c++, java, python and computer networks
+- 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on android as well as ios development.
 - 📫 How to reach me reyyanahmed77@gmail.com.
 ![GitHub Stats](https://github-profile-trophy.vercel.app/?username=reyyanxahmed&theme=dracula)
