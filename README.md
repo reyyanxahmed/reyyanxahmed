@@ -2,7 +2,7 @@
 - 👀 I’m interested in c++, python, cybersecurity and NLP Models
 - 🌱 I’m currently learning and building moidels on Python.
 - 💞️ I’m looking to collaborate on android as well as ios development.
-- 📫 How to reach me [Gmail](reyyanahmed77@gmail.com) & [LinkedIN](https://www.linkedin.com/in/reyyanxahmed/)
+- 📫 How to reach me [LinkedIN](https://www.linkedin.com/in/reyyanxahmed/)
 ![GitHub Stats](https://github-profile-trophy.vercel.app/?username=reyyanxahmed&theme=dracula)
 
 ![Reyyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=reyyanxahmed&show_icons=true,&count_private=true,&theme=radical)
