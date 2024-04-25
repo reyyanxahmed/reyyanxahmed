@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Reyyan Ahmed, currently pre-final year [COE] undergrad at Thapar University.
-- 👀 I’m interested in c++, python, cybersecurity and NLP Models
-- 🌱 I’m currently learning and building moidels on Python.
-- 💞️ I’m looking to collaborate on android as well as ios development.
+- 👀 Currently building in c++, python, cybersecurity solutions, kernels, android and web securities.
+- 🌱 I’m currently learning and building cybersecurity solutions.
+- 💞️ I’m looking to collaborate on android as well as linux development.
 - 📫 Reach me @[LinkedIN](https://www.linkedin.com/in/reyyanxahmed/)
 
 
