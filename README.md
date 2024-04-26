@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Reyyan Ahmed, currently pre-final year [COE] undergrad at Thapar University.
-- 👀 Currently building in c++, python, cybersecurity solutions, kernels, android and web securities.
+- 👋 Hi, I’m Reyyan Ahmed, a pre-final year [COE] undergrad at Thapar University.
+- 👀 Currently building cybersecurity solutions, kernels, android, and web securities.
 - 🌱 I’m currently learning and building cybersecurity solutions.
-- 💞️ I’m looking to collaborate on android as well as linux development.
+- 💞️ I’m looking to collaborate on Android and Linux development.
 - 📫 Reach me @[LinkedIN](https://www.linkedin.com/in/reyyanxahmed/)
 
 
