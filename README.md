@@ -19,7 +19,7 @@
 
 #### Main Stack:
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=c"/>](https://developer.mozilla.org/en-US/docs/Web/C)
-  [<img height="48px" width="48px" alt="C++ Icon" src="https://fontawesome.com/icons/c-plus-plus?style=brands"/>
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=cpp"/>](https://skillicons.dev)
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=js"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=nodejs"/>](https://nodejs.org/en)
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=python"/>](https://python.org)
