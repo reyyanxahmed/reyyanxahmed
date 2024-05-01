@@ -42,7 +42,7 @@
 
 ## Academic Background:
 
-[<img align="left" height="94px" width="94px" alt="TIET" src="https://d2lk14jtvqry1q.cloudfront.net/media/small_Thapar_Institute_of_Engineering_and_Technology_Thapar_University_06036259ee_6f106c6e8b_15190eeeb2_65b1d7ffa3.png"/>](https://www.thapar.edu/)
+[<img align="left" height="94px" width="94px" alt="TIET" src="https://i.pinimg.com/736x/dc/8f/94/dc8f944d84943e8ec4a9053d6eee9a54.jpg"/>](https://www.thapar.edu/)
 **Software Engineering Undergraduate** \
 [**Thapar Institute of Engineering & Technology**](https://www.thapar.edu)  • In progress\
 Skills: `Computer Networks` `Object Oriented Programming` `Secure Coding` `Cyber Forensics`
