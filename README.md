@@ -47,6 +47,8 @@
 - 16GB DDR4 3200Mhz RAM
 - 1.5TB NVMe Gen4 SSD
 
+[![sinisterchill's GitHub | Languages Over Time](https://stats.quine.sh/reyyanxahmed/languages-over-time?theme=dark)](https://quine.sh)
+
 ## Academic Background:
 
 [<img align="left" height="94px" width="94px" alt="TIET" src="https://i.pinimg.com/736x/dc/8f/94/dc8f944d84943e8ec4a9053d6eee9a54.jpg"/>](https://www.thapar.edu/)
