@@ -47,21 +47,6 @@
 - 16GB DDR4 3200Mhz RAM
 - 1.5TB NVMe Gen4 SSD
 
-### ⚙️ &nbsp;sinisterchill's GitHub Analytics
-<p align="center">
-<a href="https://github.com/reyyanxahmed">
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=reyyanxahmed&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=reyyanxahmed&layout=compact&langs_count=8&theme=nightowl"/>
-</a>
-</p>
-<br>
-
-[![sinisterchill's GitHub | Languages Over Time](https://stats.quine.sh/reyyanxahmed/languages-over-time?theme=dark)](https://quine.sh)
-
-
-
-
-
 ## Academic Background:
 
 [<img align="left" height="94px" width="94px" alt="TIET" src="https://i.pinimg.com/736x/dc/8f/94/dc8f944d84943e8ec4a9053d6eee9a54.jpg"/>](https://www.thapar.edu/)
