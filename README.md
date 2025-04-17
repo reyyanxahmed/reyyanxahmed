@@ -47,7 +47,7 @@
 - 16GB DDR4 3200Mhz RAM
 - 1.5TB NVMe Gen4 SSD
 
-[![sinisterchill's GitHub | Languages Over Time](https://stats.quine.sh/reyyanxahmed/languages-over-time?theme=dark)](https://quine.sh)
+
 
 ## Academic Background:
 
