@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+name+is+Reyyan+Ahmed.;I'm+a+Computer+Engineering+Undergrad,;at+Thapar+University!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+name+is+Reyyan+Ahmed.;I'm+a+Computer+Engineering+Graduate,;from+Thapar+University!)](https://git.io/typing-svg)
 
 <h3 align="center">"Talk is cheap. Show me the code"</h3>
 <h4 align="center">- Linus Torvalds -</h4>
@@ -42,10 +42,10 @@
 <br>
 
 ## 💻 Current Work Machine
-### HP Pavillion 15 Gaming
-- AMD Ryzen 5 5600H
-- 16GB DDR4 3200Mhz RAM
-- 1.5TB NVMe Gen4 SSD
+### Apple MacBook Pro
+- Apple M4 Pro chip 14-core CPU with 10 performance cores and 4 efficiency cores 20-core GPU
+- 48GB RAM
+- 2TB NaND Gen5 SSD
 
 
 
@@ -61,12 +61,12 @@ Skills: `Reverse Engineering` `Computer Networks` `Object Oriented Programming` 
 
 ## Contact me:
 <div>
-<a href="https://www.instagram.com/rey_yan.20/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto: reyyan.ahmed.cs@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.instagram.com/reyyyaannnn/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto: reyyan.ahmed@proton.me"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/reyyanxahmed/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
 
 ------
 
-Last Edited on: 17/04/2025
+Last Edited on: 29/10/2025
