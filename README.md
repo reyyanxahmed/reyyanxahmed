@@ -43,7 +43,7 @@
 
 ## 💻 Current Work Machine
 ### Apple MacBook Pro
-- Apple M4 Pro chip 14-core CPU with 10 performance cores and 4 efficiency cores 20-core GPU
+- Apple M4 Pro chip 14-core CPU & 20-core GPU
 - 48GB RAM
 - 2TB NaND Gen5 SSD
 
