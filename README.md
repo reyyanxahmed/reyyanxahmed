@@ -6,7 +6,7 @@
 <br>
 
 <div align="center" style="margin-bottom:200px">
- <img width=45% align="center" src="https://github-readme-stats.vercel.app/api?username=reyyanxahmed&theme=dracula&show_icons=true" />
+ <img width=45% align="center" src="![Reyyan's Github Stats](https://github-readme-stats.vercel.app/api?username=reyyanxahmed&count_private=true&show_icons=true&include_all_commits=true)" />
  <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reyyanxahmed&layout=compact&theme=dracula" />
 </div>
 
