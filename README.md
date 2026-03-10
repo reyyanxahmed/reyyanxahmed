@@ -229,7 +229,7 @@
   <a href="mailto:reyyan.ahmed@proton.me">
     <img src="https://img.shields.io/badge/ProtonMail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white&labelColor=0D1117" alt="Email"/>
   </a>
-  <a href="https://www.instagram.com/reyyyaannnn/" target="_blank">
+  <a href="https://www.instagram.com/reyyyaannnnn/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117" alt="Instagram"/>
   </a>
   
