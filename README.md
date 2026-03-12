@@ -1,20 +1,33 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24&height=200&section=header&text=Reyyan%20Ahmed&fontSize=70&fontColor=A78BFA&animation=fadeIn&fontAlignY=35&desc=Computer%20Engineering%20•%20Security%20Enthusiast&descSize=18&descAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24&height=220&section=header&text=Reyyan%20Ahmed&fontSize=72&fontColor=A78BFA&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20%E2%80%A2%20Security%20Enthusiast&descSize=18&descAlignY=60" width="100%"/>
 
 </div>
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=100&lines=Welcome+to+my+GitHub+profile!;Computer+Engineering+Graduate;Security+%26+Software+Engineer;Building+Secure+%26+Scalable+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=620&height=80&lines=Welcome+to+my+GitHub+profile!;Computer+Engineering+Graduate+%F0%9F%8E%93;Security+%26+Software+Engineer+%F0%9F%94%90;Building+Secure+%26+Scalable+Systems+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
+
+<!-- Quick Stats Banner -->
+<div align="center">
+  <br>
+
+| 🎓 Degree | 🏛️ University | 📅 Graduated | 💻 Focus |
+|:---:|:---:|:---:|:---:|
+| Computer Engineering | Thapar Institute of Engineering & Technology | 2025 | Security & Software |
+
+</div>
+
+<!-- Divider -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
 <!-- Quote Section -->
 <div align="center">
   <br>
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-  <br><br>
   <h2>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="30" height="30" />
     <span style="color: #A78BFA;">"Talk is cheap. Show me the code"</span>
@@ -26,36 +39,74 @@
 
 <br>
 
+<!-- Trophies Section -->
+<div align="center">
+  <h2>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="30" height="30" />
+    GitHub Trophies
+  </h2>
+  <br>
+  <img src="https://github-profile-trophy.vercel.app/?username=reyyanxahmed&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" width="100%" alt="GitHub Trophies"/>
+</div>
+
+<br>
+
 <!-- Stats Section -->
 <div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <br><br>
   <h2>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="30" height="30" />
     GitHub Analytics
   </h2>
   <br>
-  
+
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=reyyanxahmed&show_icons=true&count_private=true&include_all_commits=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=9333EA&text_color=E5E7EB&border_radius=10">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=reyyanxahmed&show_icons=true&count_private=true&include_all_commits=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=9333EA&text_color=E5E7EB&border_radius=10" alt="GitHub Stats"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=reyyanxahmed&show_icons=true&count_private=true&include_all_commits=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=9333EA&text_color=E5E7EB&border_radius=10&rank_icon=github">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=reyyanxahmed&show_icons=true&count_private=true&include_all_commits=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=9333EA&text_color=E5E7EB&border_radius=10&rank_icon=github" alt="GitHub Stats"/>
   </picture>
-  
+
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=reyyanxahmed&theme=midnight-purple&hide_border=true&background=0D1117&ring=A78BFA&fire=9333EA&currStreakLabel=A78BFA&sideNums=E5E7EB&currStreakNum=E5E7EB&sideLabels=E5E7EB&dates=9CA3AF&border_radius=10">
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=reyyanxahmed&theme=midnight-purple&hide_border=true&background=0D1117&ring=A78BFA&fire=9333EA&currStreakLabel=A78BFA&sideNums=E5E7EB&currStreakNum=E5E7EB&sideLabels=E5E7EB&dates=9CA3AF&border_radius=10" alt="GitHub Streak"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=reyyanxahmed&theme=midnight-purple&hide_border=true&background=0D1117&ring=A78BFA&fire=9333EA&currStreakLabel=A78BFA&sideNums=E5E7EB&currStreakNum=E5E7EB&sideLabels=E5E7EB&dates=9CA3AF&border_radius=10">
+    <img width="49%" src="https://streak-stats.demolab.com?user=reyyanxahmed&theme=midnight-purple&hide_border=true&background=0D1117&ring=A78BFA&fire=9333EA&currStreakLabel=A78BFA&sideNums=E5E7EB&currStreakNum=E5E7EB&sideLabels=E5E7EB&dates=9CA3AF&border_radius=10" alt="GitHub Streak"/>
   </picture>
-  
+
   <br><br>
-  
+
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=reyyanxahmed&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E5E7EB&border_radius=10&langs_count=8&card_width=445">
     <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reyyanxahmed&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E5E7EB&border_radius=10&langs_count=8&card_width=445" alt="Top Languages"/>
   </picture>
-  
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=reyyanxahmed&theme=midnight_purple&utcOffset=5.5">
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=reyyanxahmed&theme=midnight_purple&utcOffset=5.5" alt="Commits by Hour"/>
+  </picture>
+
+  <br><br>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=reyyanxahmed&theme=midnight_purple">
+    <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=reyyanxahmed&theme=midnight_purple" alt="Repos per Language"/>
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=reyyanxahmed&theme=midnight_purple">
+    <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=reyyanxahmed&theme=midnight_purple" alt="Most Commit Language"/>
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=reyyanxahmed&theme=midnight_purple">
+    <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=reyyanxahmed&theme=midnight_purple" alt="Stats"/>
+  </picture>
+
+  <br><br>
+
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=reyyanxahmed&theme=high-contrast&hide_border=true&bg_color=0D1117&color=A78BFA&line=9333EA&point=E5E7EB&area=true&area_color=7C3AED&custom_title=Contribution%20Graph&radius=10&height=300">
     <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=reyyanxahmed&theme=high-contrast&hide_border=true&bg_color=0D1117&color=A78BFA&line=9333EA&point=E5E7EB&area=true&area_color=7C3AED&custom_title=Contribution%20Graph&radius=10&height=300" alt="Activity Graph"/>
   </picture>
-  
+
 </div>
 
 <br>
@@ -260,7 +311,7 @@
   
   <sub>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand.png" width="20" height="20" />
-    <em>Last Updated: November 7, 2025</em>
+    <em>Last Updated: March 12, 2026</em>
   </sub>
   
   <br><br>
