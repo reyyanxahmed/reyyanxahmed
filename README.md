@@ -10,16 +10,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=620&height=80&lines=Welcome+to+my+GitHub+profile!;Computer+Engineering+Graduate+%F0%9F%8E%93;Security+%26+Software+Engineer+%F0%9F%94%90;Building+Secure+%26+Scalable+Systems+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
-<!-- Quick Stats Banner -->
-<div align="center">
-  <br>
-
-| 🎓 Degree | 🏛️ University | 📅 Graduated | 💻 Focus |
-|:---:|:---:|:---:|:---:|
-| Computer Engineering | Thapar Institute of Engineering & Technology | 2025 | Security & Software |
-
-</div>
-
 <!-- Divider -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -46,7 +36,7 @@
     GitHub Trophies
   </h2>
   <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=reyyanxahmed&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" width="100%" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy-tawny.vercel.app/?username=reyyanxahmed&theme=discord&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7" width="100%" alt="GitHub Trophies"/>
 </div>
 
 <br>
@@ -62,49 +52,49 @@
   <br>
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=reyyanxahmed&show_icons=true&count_private=true&include_all_commits=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=9333EA&text_color=E5E7EB&border_radius=10&rank_icon=github">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=reyyanxahmed&show_icons=true&count_private=true&include_all_commits=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=9333EA&text_color=E5E7EB&border_radius=10&rank_icon=github" alt="GitHub Stats"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=reyyanxahmed&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=00000000&title_color=A78BFA&icon_color=9333EA&text_color=C9D1D9&ring_color=A78BFA&border_radius=15&rank_icon=github">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=reyyanxahmed&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=00000000&title_color=A78BFA&icon_color=9333EA&text_color=C9D1D9&ring_color=A78BFA&border_radius=15&rank_icon=github" alt="GitHub Stats"/>
   </picture>
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=reyyanxahmed&theme=midnight-purple&hide_border=true&background=0D1117&ring=A78BFA&fire=9333EA&currStreakLabel=A78BFA&sideNums=E5E7EB&currStreakNum=E5E7EB&sideLabels=E5E7EB&dates=9CA3AF&border_radius=10">
-    <img width="49%" src="https://streak-stats.demolab.com?user=reyyanxahmed&theme=midnight-purple&hide_border=true&background=0D1117&ring=A78BFA&fire=9333EA&currStreakLabel=A78BFA&sideNums=E5E7EB&currStreakNum=E5E7EB&sideLabels=E5E7EB&dates=9CA3AF&border_radius=10" alt="GitHub Streak"/>
-  </picture>
-
-  <br><br>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=reyyanxahmed&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E5E7EB&border_radius=10&langs_count=8&card_width=445">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reyyanxahmed&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E5E7EB&border_radius=10&langs_count=8&card_width=445" alt="Top Languages"/>
-  </picture>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=reyyanxahmed&theme=midnight_purple&utcOffset=5.5">
-    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=reyyanxahmed&theme=midnight_purple&utcOffset=5.5" alt="Commits by Hour"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=reyyanxahmed&hide_border=true&background=00000000&ring=A78BFA&fire=9333EA&currStreakLabel=A78BFA&sideNums=C9D1D9&currStreakNum=C9D1D9&sideLabels=C9D1D9&dates=8B949E&border_radius=15&card_width=467">
+    <img width="49%" src="https://streak-stats.demolab.com/?user=reyyanxahmed&hide_border=true&background=00000000&ring=A78BFA&fire=9333EA&currStreakLabel=A78BFA&sideNums=C9D1D9&currStreakNum=C9D1D9&sideLabels=C9D1D9&dates=8B949E&border_radius=15&card_width=467" alt="GitHub Streak"/>
   </picture>
 
   <br><br>
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=reyyanxahmed&theme=midnight_purple">
-    <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=reyyanxahmed&theme=midnight_purple" alt="Repos per Language"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=reyyanxahmed&layout=compact&hide_border=true&bg_color=00000000&title_color=A78BFA&text_color=C9D1D9&border_radius=15&langs_count=8&card_width=445">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reyyanxahmed&layout=compact&hide_border=true&bg_color=00000000&title_color=A78BFA&text_color=C9D1D9&border_radius=15&langs_count=8&card_width=445" alt="Top Languages"/>
   </picture>
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=reyyanxahmed&theme=midnight_purple">
-    <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=reyyanxahmed&theme=midnight_purple" alt="Most Commit Language"/>
-  </picture>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=reyyanxahmed&theme=midnight_purple">
-    <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=reyyanxahmed&theme=midnight_purple" alt="Stats"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=reyyanxahmed&theme=transparent&utcOffset=5.5">
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=reyyanxahmed&theme=transparent&utcOffset=5.5" alt="Commits by Hour"/>
   </picture>
 
   <br><br>
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=reyyanxahmed&theme=high-contrast&hide_border=true&bg_color=0D1117&color=A78BFA&line=9333EA&point=E5E7EB&area=true&area_color=7C3AED&custom_title=Contribution%20Graph&radius=10&height=300">
-    <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=reyyanxahmed&theme=high-contrast&hide_border=true&bg_color=0D1117&color=A78BFA&line=9333EA&point=E5E7EB&area=true&area_color=7C3AED&custom_title=Contribution%20Graph&radius=10&height=300" alt="Activity Graph"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=reyyanxahmed&theme=transparent">
+    <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=reyyanxahmed&theme=transparent" alt="Repos per Language"/>
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=reyyanxahmed&theme=transparent">
+    <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=reyyanxahmed&theme=transparent" alt="Most Commit Language"/>
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=reyyanxahmed&theme=transparent">
+    <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=reyyanxahmed&theme=transparent" alt="Stats"/>
+  </picture>
+
+  <br><br>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=reyyanxahmed&hide_border=true&bg_color=00000000&color=A78BFA&line=9333EA&point=C9D1D9&area=true&area_color=7C3AED&custom_title=Contribution%20Graph&radius=15&height=300">
+    <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=reyyanxahmed&hide_border=true&bg_color=00000000&color=A78BFA&line=9333EA&point=C9D1D9&area=true&area_color=7C3AED&custom_title=Contribution%20Graph&radius=15&height=300" alt="Activity Graph"/>
   </picture>
 
 </div>
@@ -131,18 +121,17 @@
         Main Stack
       </h3>
       <br>
-      </a>
       <a href="https://cplusplus.com/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=cpp" height="50" alt="C++" />
+        <img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="50" alt="C++" />
       </a>
       <a href="https://www.python.org/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=python" height="50" alt="Python" />
+        <img src="https://skillicons.dev/icons?i=python&theme=dark" height="50" alt="Python" />
       </a>
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-        <img src="https://skillicons.dev/icons?i=js" height="50" alt="JavaScript" />
+        <img src="https://skillicons.dev/icons?i=js&theme=dark" height="50" alt="JavaScript" />
       </a>
       <a href="https://nodejs.org/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="Node.js" />
+        <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" height="50" alt="Node.js" />
       </a>
     </td>
     <td align="center" width="50%">
@@ -152,16 +141,16 @@
       </h3>
       <br>
       <a href="https://www.python.org/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=python" height="50" alt="Python" />
+        <img src="https://skillicons.dev/icons?i=python&theme=dark" height="50" alt="Python" />
       </a>
       <a href="https://www.mongodb.com/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="MongoDB" />
+        <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" height="50" alt="MongoDB" />
       </a>
       <a href="https://expressjs.com/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=express" height="50" alt="Express.js" />
+        <img src="https://skillicons.dev/icons?i=express&theme=dark" height="50" alt="Express.js" />
       </a>
       <a href="https://react.dev/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=react" height="50" alt="React" />
+        <img src="https://skillicons.dev/icons?i=react&theme=dark" height="50" alt="React" />
       </a>
     </td>
   </tr>
@@ -173,16 +162,16 @@
       </h3>
       <br>
       <a href="https://www.jetbrains.com/pycharm/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=pycharm" height="50" alt="PyCharm" />
+        <img src="https://skillicons.dev/icons?i=pycharm&theme=dark" height="50" alt="PyCharm" />
       </a>
       <a href="https://code.visualstudio.com/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="VS Code" />
+        <img src="https://skillicons.dev/icons?i=vscode&theme=dark" height="50" alt="VS Code" />
       </a>
       <a href="https://github.com/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub" />
+        <img src="https://skillicons.dev/icons?i=github&theme=dark" height="50" alt="GitHub" />
       </a>
       <a href="https://git-scm.com/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=git" height="50" alt="Git" />
+        <img src="https://skillicons.dev/icons?i=git&theme=dark" height="50" alt="Git" />
       </a>
     </td>
   </tr>
@@ -212,54 +201,6 @@
   Display: Liquid Retina XDR
   ```
   
-</div>
-
-<br>
-
-<!-- Education Section -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-  <br><br>
-  <h2>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="30" height="30" />
-    Academic Background
-  </h2>
-</div>
-
-<br>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="140">
-        <a href="https://www.thapar.edu/" target="_blank">
-          <img src="https://i.pinimg.com/736x/dc/8f/94/dc8f944d84943e8ec4a9053d6eee9a54.jpg" width="100" height="100" style="border-radius: 50%;" alt="TIET Logo"/>
-        </a>
-      </td>
-      <td align="left">
-        <h3>🎓 Computer Engineering</h3>
-        <p><strong><a href="https://www.thapar.edu/" target="_blank">Thapar Institute of Engineering & Technology</a></strong></p>
-        <p><em>Graduated 2025</em></p>
-        <br>
-        <details>
-          <summary><strong>📚 Key Areas of Study</strong></summary>
-          <br>
-          <p>
-            <code>Reverse Engineering</code>
-            <code>Computer Networks</code>
-            <code>Object Oriented Programming</code>
-            <br>
-            <code>Secure Coding</code>
-            <code>Cyber Forensics</code>
-            <code>Database Management</code>
-            <br>
-            <code>Software Engineering</code>
-            <code>Computer & Network Security</code>
-          </p>
-        </details>
-      </td>
-    </tr>
-  </table>
 </div>
 
 <br>
@@ -308,6 +249,16 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24&height=120&section=footer" width="100%"/>
   
   <br>
+
+  <a href="https://www.thapar.edu/" target="_blank">
+    <img src="https://i.pinimg.com/736x/dc/8f/94/dc8f944d84943e8ec4a9053d6eee9a54.jpg" width="40" height="40" style="border-radius: 50%;" alt="TIET Logo"/>
+  </a>
+  <br>
+  <sub>
+    🎓 <strong>Computer Engineering</strong> · <a href="https://www.thapar.edu/" target="_blank">Thapar Institute of Engineering & Technology</a> · Class of 2025
+  </sub>
+  
+  <br><br>
   
   <sub>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand.png" width="20" height="20" />
