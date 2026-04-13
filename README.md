@@ -86,9 +86,6 @@ html          █░░░░░░░░░░░░░░░░░░░░░
 ## metrics
 
 <div align="center">
-  <img width="49%" src="github-stats.svg" alt="github stats" />
-  <img width="40%" src="github-languages.svg" alt="top languages" />
-  <br><br>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=reyyanxahmed&hide_border=true&background=00000000&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=6B7280&currStreakNum=C9D1D9&sideNums=C9D1D9&border_radius=4">
     <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=reyyanxahmed&hide_border=true&background=00000000&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED&sideLabels=24292F&dates=6B7280&currStreakNum=24292F&sideNums=24292F&border_radius=4">
