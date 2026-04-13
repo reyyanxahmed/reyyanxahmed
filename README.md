@@ -86,8 +86,8 @@ html          █░░░░░░░░░░░░░░░░░░░░░
 ## metrics
 
 <div align="center">
-  <img width="49%" src="github-stats.svg" alt="github stats" />
-  <img width="40%" src="github-languages.svg" alt="top languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=reyyanxahmed&hide_border=true&bg_color=00000000&text_color=C9D1D9&title_color=A78BFA&icon_color=A78BFA&show_icons=true&include_all_commits=true&count_private=true" alt="github stats" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reyyanxahmed&hide_border=true&bg_color=00000000&text_color=C9D1D9&title_color=A78BFA&layout=compact&langs_count=8" alt="top languages" />
   <br><br>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=reyyanxahmed&hide_border=true&background=00000000&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=6B7280&currStreakNum=C9D1D9&sideNums=C9D1D9&border_radius=4">
