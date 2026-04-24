@@ -26,7 +26,7 @@ uptime:     4y 6m                           # on GitHub since Oct 2021
 host:       Thapar Institute of Engineering & Technology, Patiala
 kernel:     B.E. Computer Engineering       # class of 2025
 editor:     vscode · pycharm
-shell:      zsh
+shell:      zsh - bash
 repos:      8 public                        # 3 ★ · 2 forks · 257+ files
 ```
 
