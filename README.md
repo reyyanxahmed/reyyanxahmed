@@ -21,13 +21,13 @@
 ```yaml
 # ~/.config/reyyan.yml
 
-system:     macOS Tahoe · Apple M4 Pro (14c/20g) · 48 GB
+system:     macOS Tahoe · Apple M4 Pro (14c/20g) · 48 GB 2TB
 uptime:     4y 6m                           # on GitHub since Oct 2021
 host:       Thapar Institute of Engineering & Technology, Patiala
 kernel:     B.E. Computer Engineering       # class of 2025
 editor:     vscode · pycharm
 shell:      zsh - bash
-repos:      8 public                        # 3 ★ · 2 forks · 257+ files
+repos:      8 public  40 private                      # 3 ★ · 2 forks · 257+ files
 ```
 
 ---
