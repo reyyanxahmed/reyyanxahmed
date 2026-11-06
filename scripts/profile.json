@@ -1,0 +1,62 @@
+{
+  "login": "reyyanxahmed",
+  "name": ["reyyan", "ahmed"],
+  "eyebrow": "security · ai · tools",
+  "rotating_prefix": "i build",
+  "rotating": [
+    "local-first ai agents",
+    "malware analysis tooling",
+    "android forensics research",
+    "autonomous soc platforms"
+  ],
+  "tagline": "frontend is pain, backend is forever.",
+  "status": "securing the stack, one day at a time",
+  "meta": ["loc  IN", "org  IIT Kanpur", "alias  sinisterchill"],
+  "field_label": "soc://field",
+  "timezone_offset_minutes": 330,
+  "timezone_label": "IST",
+
+  "whoami_path": "~/.config/reyyan.yml",
+  "whoami": [
+    ["user", "reyyan ahmed", "aka sinisterchill"],
+    ["focus", "security · ai/llm · dev tools", ""],
+    ["system", "macOS Tahoe · Apple M4 Pro (14c/20g) · 48 GB · 2 TB", ""],
+    ["kernel", "B.E. Computer Engineering", "class of 2025"],
+    ["host", "Thapar Institute of Engineering & Technology", "Patiala"],
+    ["editor", "vscode · pycharm · zed", ""],
+    ["shell", "zsh · bash", ""],
+    ["uptime", "{uptime}", "on github since {since}"],
+    ["repos", "{public} public · {private} private", ""],
+    ["status", "{status}", ""]
+  ],
+
+  "stack": [
+    {"label": "security", "items": ["android RE", "AOSP internals", "malware analysis", "capa rules", "ATT&CK", "DFIR", "SELinux"]},
+    {"label": "ai / llm", "items": ["local-first inference", "ollama", "multi-model RAG", "agents", "embeddings", "LiteRT on-device", "gemini"]},
+    {"label": "languages", "items": ["typescript", "python", "kotlin", "swift", "rust", "c++", "shell"]},
+    {"label": "build / ship", "items": ["node", "next.js", "jetpack compose", "aws lambda", "postgres", "vercel", "github actions"]}
+  ],
+
+  "projects": [
+    {"repo": "cmdr", "tag": "ai · cli", "desc": "Local-first, multi-agent AI coding in your terminal. Runs entirely on Ollama: no API keys, no cloud, nothing leaves your laptop."},
+    {"repo": "forge", "tag": "android · on-device ai", "desc": "An autonomous agent that plans, writes and compiles native Android apps on the phone itself. 100% offline on LiteRT + Gemma."},
+    {"repo": "capa-rule-agent", "tag": "malware · mandiant flare", "desc": "Turns capa-rules issues into validated detection rules: RAG over 650+ rules, Gemini, capa lint and a 5-layer quality gate."},
+    {"repo": "polymind-cli", "tag": "ai · tui", "desc": "An LLM council in your terminal. Several models debate each other to reach a better-argued answer, in an interactive TUI."},
+    {"repo": "linkedin-profile-api", "tag": "reverse engineering", "desc": "Profile URL in, structured JSON out, by calling LinkedIn's internal endpoints directly. No browser anywhere in the stack."},
+    {"repo": "SoloGPT", "tag": "ai · privacy", "desc": "Ask questions of your own documents with a local LLM and Instructor embeddings. Fully offline: no data leaves the machine."}
+  ],
+
+  "links": [
+    {"label": "linkedin", "url": "https://linkedin.com/in/reyyanxahmed"},
+    {"label": "protonmail", "url": "mailto:reyyan.ahmed@proton.me"},
+    {"label": "instagram", "url": "https://instagram.com/reyyyaannnnn"}
+  ],
+
+  "more_repos": [
+    ["AndroidSecurity-ADeepDive", "notes from a deep dive into android security"],
+    ["C-Programming", "university coursework and assignments"],
+    ["The-flappy-bird-documentation", "documentation site for the flappy bird project"]
+  ],
+
+  "exclude_languages": ["Jupyter Notebook", "HTML", "CSS", "Makefile", "Dockerfile", "Procfile"]
+}
