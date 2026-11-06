@@ -1,7 +1,7 @@
 name: profile
 
 # Rebuilds every SVG in assets/ and README.md from live GitHub data.
-# Add a PROFILE_TOKEN secret (fine-grained PAT, read-only "Metadata" on all
+# Uses PROFILE_TOKEN, else the older METRICS_TOKEN (fine-grained PAT, read-only "Metadata" on all
 # repositories) to include private repo counts and languages; without it the
 # build falls back to the workflow token and public data only.
 on:
@@ -30,9 +30,17 @@ jobs:
           cache-dependency-path: scripts/requirements.txt
       - run: pip install -r scripts/requirements.txt
       - name: Build assets
+        id: build
+        continue-on-error: true
         run: python scripts/build.py
         env:
-          GH_TOKEN: ${{ secrets.PROFILE_TOKEN || github.token }}
+          GH_TOKEN: ${{ secrets.PROFILE_TOKEN || secrets.METRICS_TOKEN || github.token }}
+      # an expired personal token should not stop the refresh: retry with public data only
+      - name: Build assets (public data only)
+        if: steps.build.outcome == 'failure'
+        run: python scripts/build.py
+        env:
+          GH_TOKEN: ${{ github.token }}
       - name: Commit if anything changed
         run: |
           git config user.name "github-actions[bot]"
