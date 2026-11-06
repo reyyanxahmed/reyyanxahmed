@@ -310,6 +310,9 @@ def derive(data: dict) -> dict:
             max(weekday_tot, key=weekday_tot.get) if weekday_tot else 0],
         best_day=best,
         synced=now.strftime("%d %b %Y").lower(),
+        # a public-only token sees no private repos; say nothing rather than "0 private"
+        repos_line=(f"{len(pub)} public \u00b7 {len(repos) - len(pub)} private" if len(repos) > len(pub)
+                    else f"{len(pub)} public"),
     )
 
 
@@ -463,7 +466,7 @@ def iso_field(T: dict) -> str:
 def whoami(T: dict, D: dict) -> str:
     rows = []
     for k, v, c in CFG["whoami"]:
-        fill = dict(uptime=D["uptime"], since=D["since"], public=D["n_public"], private=D["n_private"],
+        fill = dict(uptime=D["uptime"], since=D["since"], repos=D["repos_line"],
                     status=CFG["status"])
         rows.append((k, v.format(**fill), c.format(**fill)))
     lh = 26
@@ -591,7 +594,7 @@ def telemetry(T: dict, D: dict) -> str:
         ("contributions", D["total_all"], f"{D['total_year']:,} in the last year"),
         ("current streak", D["streak"], f"days · longest {D['longest']}"),
         ("stars earned", D["stars"], f"across {D['n_public']} public repos"),
-        ("repositories", D["n_repos"], f"{D['n_public']} public · {D['n_private']} private"),
+        ("repositories", D["n_repos"], D["repos_line"]),
     ]
     tw = (W - 56) / 4
     for i, (label, val, sub) in enumerate(tiles):
