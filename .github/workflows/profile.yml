@@ -1,0 +1,51 @@
+name: profile
+
+# Rebuilds every SVG in assets/ and README.md from live GitHub data.
+# Uses PROFILE_TOKEN, else the older METRICS_TOKEN (fine-grained PAT, read-only "Metadata" on all
+# repositories) to include private repo counts and languages; without it the
+# build falls back to the workflow token and public data only.
+on:
+  schedule: [{cron: "23 */6 * * *"}]
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ["scripts/**", ".github/workflows/profile.yml"]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: scripts/requirements.txt
+      - run: pip install -r scripts/requirements.txt
+      - name: Build assets
+        id: build
+        continue-on-error: true
+        run: python scripts/build.py
+        env:
+          GH_TOKEN: ${{ secrets.PROFILE_TOKEN || secrets.METRICS_TOKEN || github.token }}
+      # an expired personal token should not stop the refresh: retry with public data only
+      - name: Build assets (public data only)
+        if: steps.build.outcome == 'failure'
+        run: python scripts/build.py
+        env:
+          GH_TOKEN: ${{ github.token }}
+      - name: Commit if anything changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets README.md
+          if git diff --cached --quiet; then echo "no changes"; exit 0; fi
+          git commit -m "chore(profile): refresh assets"
+          git push
